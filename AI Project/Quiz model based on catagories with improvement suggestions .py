@@ -4,6 +4,7 @@ Created on Fri Apr 10 11:00:39 2020
 
 @author: Asusa
 """
+#dont forget to read ReadME file.
 
 import json
 import time
